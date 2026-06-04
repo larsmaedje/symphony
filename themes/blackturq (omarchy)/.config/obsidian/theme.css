@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackturq (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #0a0a0a;
+    --background-primary-alt: #1e1e1e;
+    --background-secondary: #1e1e1e;
+    --background-secondary-alt: #1e1e1e;
+    --background-modifier-hover: #1e1e1e;
+    --background-modifier-border: #322F3B;
+
+    --text-normal: #DAF6F4;
+    --text-muted: #646d7a;
+    --text-faint: #322F3B;
+    --text-on-accent: #0a0a0a;
+
+    --interactive-accent: #ADF0E9;
+    --interactive-accent-hover: #7cf0ef;
+    --text-accent: #ADF0E9;
+    --text-accent-hover: #7cf0ef;
+
+    --link-color: #ADF0E9;
+    --link-color-hover: #7cf0ef;
+    --link-external-color: #7cf0ef;
+
+    --code-background: #1e1e1e;
+    --code-normal: #DAF6F4;
+
+    --text-error: #D35F5F;
+    --text-success: #8FECD5;
+    --text-warning: #A9D1D7;
+
+    --divider-color: #322F3B;
+    --icon-color: #646d7a;
+    --icon-color-hover: #DAF6F4;
+    --tag-color: #485362;
+    --tag-background: #1e1e1e;
+}
+
+::selection { background: #ADF0E940; }

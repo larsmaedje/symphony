@@ -1,0 +1,62 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy deadspace (omarchy)
+
+[mgr]
+cwd = { fg = "#ffffff" }
+
+find_keyword = { fg = "#dedada", bold = true, italic = true, underline = true }
+find_position = { fg = "#dedada", bold = true, italic = true }
+
+marker_copied = { fg = "#dedada", bg = "#dedada" }
+marker_cut = { fg = "#958a8a", bg = "#958a8a" }
+marker_marked = { fg = "#b2aaaa", bg = "#b2aaaa" }
+marker_selected = { fg = "#c1baba", bg = "#c1baba" }
+
+count_copied = { fg = "#010101", bg = "#dedada" }
+count_cut = { fg = "#010101", bg = "#958a8a" }
+count_selected = { fg = "#010101", bg = "#c1baba" }
+
+border_symbol = " "
+border_style = { fg = "#c1baba" }
+
+[status]
+sep_left = { open = "", close = "🭠" }
+sep_right = { open = "🭁", close = "" }
+
+perm_type = { fg = "#c1baba" }
+perm_read = { fg = "#dedada" }
+perm_write = { fg = "#b2aaaa" }
+perm_exec = { fg = "#958a8a" }
+perm_sep = { fg = "#cfcaca" }
+
+progress_label = { bold = true }
+progress_normal = { fg = "#c1baba", bg = "#151515" }
+progress_error = { fg = "#958a8a", bg = "#151515" }
+
+[mode]
+normal_main = { bg = "#c1baba", fg = "#010101", bold = true }
+normal_alt = { bg = "#151515", fg = "#ffffff" }
+
+select_main = { bg = "#cfcaca", fg = "#010101", bold = true }
+select_alt = { bg = "#151515", fg = "#ffffff" }
+
+unset_main = { bg = "#dedada", fg = "#010101", bold = true }
+unset_alt = { bg = "#151515", fg = "#ffffff" }
+
+[select]
+border = { fg = "#c1baba" }
+active = { fg = "#dedada", bold = true }
+
+[input]
+border = { fg = "#c1baba" }
+value = { fg = "#ffffff" }
+
+[tabs]
+active = { fg = "#c1baba", bold = true, bg = "#010101" }
+inactive = { fg = "#dddbdb", bg = "#010101" }
+sep_inner = { open = "[", close = "]" }
+
+[cmp]
+border = { fg = "#c1baba", bg = "#010101" }

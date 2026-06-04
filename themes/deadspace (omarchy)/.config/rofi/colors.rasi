@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy deadspace (omarchy) */
+
+* {
+    primary: #dedada;
+    primary-container: #c1baba;
+    on-primary: #010101;
+    on-primary-container: #ffffff;
+    secondary: #cfcaca;
+    secondary-container: #dddbdb;
+    on-secondary: #010101;
+    on-secondary-container: #ffffff;
+    surface: #010101;
+    surface-dim: #010101;
+    surface-bright: #dddbdb;
+    surface-container-lowest: #010101;
+    surface-container-low: #010101;
+    surface-container: #dddbdb;
+    surface-container-high: #dddbdb;
+    surface-container-highest: #dddbdb;
+    on-surface: #010101;
+    on-surface-variant: #F6F6F5;
+    outline: #dddbdb;
+    outline-variant: #dddbdb;
+    error: #958a8a;
+    on-error: #010101;
+    inverse-surface: #010101;
+    inverse-on-surface: #010101;
+}

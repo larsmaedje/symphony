@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackturq (omarchy) */
+
+* {
+    primary: #7cf0ef;
+    primary-container: #ADF0E9;
+    on-primary: #0a0a0a;
+    on-primary-container: #DAF6F4;
+    secondary: #485362;
+    secondary-container: #322F3B;
+    on-secondary: #0a0a0a;
+    on-secondary-container: #DAF6F4;
+    surface: #0a0a0a;
+    surface-dim: #0a0a0a;
+    surface-bright: #322F3B;
+    surface-container-lowest: #0a0a0a;
+    surface-container-low: #0a0a0a;
+    surface-container: #322F3B;
+    surface-container-high: #322F3B;
+    surface-container-highest: #322F3B;
+    on-surface: #0a0a0a;
+    on-surface-variant: #646d7a;
+    outline: #322F3B;
+    outline-variant: #322F3B;
+    error: #D35F5F;
+    on-error: #0a0a0a;
+    inverse-surface: #0a0a0a;
+    inverse-on-surface: #0a0a0a;
+}

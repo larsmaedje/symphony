@@ -1,0 +1,10 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy blackturq (omarchy) */
+
+@define-color waybar_accent rgba(218, 246, 244, 0.18);
+@define-color waybar_accent_fg @on_background;
+@define-color on_background #DAF6F4;
+@define-color surface_container #0a0a0a;
+@define-color error #D35F5F;

@@ -1,0 +1,28 @@
+# ╭─ ♪ Symphony ─╮
+# │  Generated   │
+# ╰──────────────╯
+# Theme: Omarchy blackturq (omarchy)
+
+[colors.primary]
+background = '#0a0a0a'
+foreground = '#DAF6F4'
+
+[colors.normal]
+black = '#0a0a0a'
+red = '#D35F5F'
+green = '#8FECD5'
+yellow = '#A9D1D7'
+blue = '#ADF0E9'
+magenta = '#485362'
+cyan = '#7cf0ef'
+white = '#646d7a'
+
+[colors.bright]
+black = '#322F3B'
+red = '#D35F5F'
+green = '#8FECD5'
+yellow = '#A9D1D7'
+blue = '#ADF0E9'
+magenta = '#485362'
+cyan = '#7cf0ef'
+white = '#646d7a'

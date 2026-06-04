@@ -1,0 +1,31 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy osaka-jade (omarchy) */
+
+* {
+    primary: #2DD5B7;
+    primary-container: #509475;
+    on-primary: #111C18;
+    on-primary-container: #C1C497;
+    secondary: #D2689C;
+    secondary-container: #53685B;
+    on-secondary: #111C18;
+    on-secondary-container: #C1C497;
+    surface: #111C18;
+    surface-dim: #111C18;
+    surface-bright: #53685B;
+    surface-container-lowest: #111C18;
+    surface-container-low: #111C18;
+    surface-container: #53685B;
+    surface-container-high: #53685B;
+    surface-container-highest: #53685B;
+    on-surface: #111C18;
+    on-surface-variant: #F6F5DD;
+    outline: #53685B;
+    outline-variant: #53685B;
+    error: #FF5345;
+    on-error: #111C18;
+    inverse-surface: #111C18;
+    inverse-on-surface: #111C18;
+}

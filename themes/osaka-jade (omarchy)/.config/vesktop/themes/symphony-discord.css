@@ -1,0 +1,60 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+
+   Theme: Omarchy osaka-jade (omarchy)
+   Based on midnight by refact0r
+   https://github.com/refact0r/midnight-discord */
+
+@import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+
+:root {
+    --font: 'figtree';
+    --corner-text: 'Symphony';
+
+    /* status indicators */
+    --online-indicator: #549E6A;
+    --dnd-indicator: #FF5345;
+    --idle-indicator: #459451;
+    --streaming-indicator: #D2689C;
+
+    /* accent colors */
+    --accent-1: #509475;
+    --accent-2: #509475;
+    --accent-3: #509475;
+    --accent-4: #1e6243;
+    --accent-5: #377b5c;
+    --mention: #1e6243;
+    --mention-hover: #377b5c;
+
+    /* text colors */
+    --text-0: #111C18;
+    --text-1: #C1C497;
+    --text-2: #C1C497;
+    --text-3: #F6F5DD;
+    --text-4: #53685B;
+    --text-5: #53685B;
+
+    /* background colors */
+    --bg-1: #23372B;
+    --bg-2: #25302c;
+    --bg-3: #25302c;
+    --bg-4: #111C18;
+    --hover: #25302c;
+    --active: #509475;
+    --message-hover: #25302c;
+
+    /* corner roundness */
+    --roundness-xl: 22px;
+    --roundness-l: 20px;
+    --roundness-m: 16px;
+    --roundness-s: 12px;
+    --roundness-xs: 10px;
+    --roundness-xxs: 8px;
+
+    --discord-icon: none;
+    --moon-icon: block;
+}
+
+.selected_f5eb4b, .selected_f6f816 .link_d8bfb3 { color: var(--text-0) !important; background: var(--accent-3) !important; }
+.selected_f6f816 .link_d8bfb3 * { color: var(--text-0) !important; fill: var(--text-0) !important; }

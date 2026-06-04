@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy deadspace (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #010101;
+    --background-primary-alt: #151515;
+    --background-secondary: #151515;
+    --background-secondary-alt: #151515;
+    --background-modifier-hover: #151515;
+    --background-modifier-border: #dddbdb;
+
+    --text-normal: #ffffff;
+    --text-muted: #F6F6F5;
+    --text-faint: #dddbdb;
+    --text-on-accent: #010101;
+
+    --interactive-accent: #c1baba;
+    --interactive-accent-hover: #dedada;
+    --text-accent: #c1baba;
+    --text-accent-hover: #dedada;
+
+    --link-color: #c1baba;
+    --link-color-hover: #dedada;
+    --link-external-color: #dedada;
+
+    --code-background: #151515;
+    --code-normal: #ffffff;
+
+    --text-error: #958a8a;
+    --text-success: #a49a9a;
+    --text-warning: #b2aaaa;
+
+    --divider-color: #dddbdb;
+    --icon-color: #F6F6F5;
+    --icon-color-hover: #ffffff;
+    --tag-color: #cfcaca;
+    --tag-background: #151515;
+}
+
+::selection { background: #c1baba40; }

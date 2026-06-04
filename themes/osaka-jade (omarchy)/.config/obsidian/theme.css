@@ -1,0 +1,42 @@
+/* ╭─ ♪ Symphony ─╮
+   │  Generated   │
+   ╰──────────────╯
+   Theme: Omarchy osaka-jade (omarchy) */
+
+.theme-dark, .theme-light {
+    --background-primary: #111C18;
+    --background-primary-alt: #25302c;
+    --background-secondary: #25302c;
+    --background-secondary-alt: #25302c;
+    --background-modifier-hover: #25302c;
+    --background-modifier-border: #53685B;
+
+    --text-normal: #C1C497;
+    --text-muted: #F6F5DD;
+    --text-faint: #53685B;
+    --text-on-accent: #111C18;
+
+    --interactive-accent: #509475;
+    --interactive-accent-hover: #2DD5B7;
+    --text-accent: #509475;
+    --text-accent-hover: #2DD5B7;
+
+    --link-color: #509475;
+    --link-color-hover: #2DD5B7;
+    --link-external-color: #2DD5B7;
+
+    --code-background: #25302c;
+    --code-normal: #C1C497;
+
+    --text-error: #FF5345;
+    --text-success: #549E6A;
+    --text-warning: #459451;
+
+    --divider-color: #53685B;
+    --icon-color: #F6F5DD;
+    --icon-color-hover: #C1C497;
+    --tag-color: #D2689C;
+    --tag-background: #25302c;
+}
+
+::selection { background: #50947540; }
