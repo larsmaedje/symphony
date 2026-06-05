@@ -12,7 +12,7 @@
   border: none;
   border-radius: 0;
   font-family: "CaskaydiaMono Nerd Font Propo";
-  font-size: 16px;
+  font-size: 24px;
 }
 
 tooltip {
@@ -68,6 +68,9 @@ window#waybar {
   opacity: 0.4;
 }
 
+#cpu,
+#temperature,
+#custom-gpu,
 #disk,
 #memory,
 #battery,
@@ -82,7 +85,7 @@ window#waybar {
 #mpris,
 #clock,
 #custom-idle-indicator {
-  padding: 0 6px;
+  padding: 0 9px;
   font-weight: 600;
   opacity: 1;
   transition: opacity 150ms ease;
@@ -93,12 +96,12 @@ window#waybar {
 }
 
 #custom-expand {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 #custom-screenrecording-indicator {
-  min-width: 12px;
-  font-size: 12px;
+  min-width: 18px;
+  font-size: 18px;
 }
 
 #custom-screenrecording-indicator.active {

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+output=$(nvidia-smi --query-gpu=utilization.gpu,temperature.gpu \
+  --format=csv,noheader,nounits 2>/dev/null)
+
+[[ -z "$output" ]] && echo '{"text": ""}' && exit 0
+
+usage=$(echo "$output" | awk -F',' '{gsub(/ /,"",$1); print $1}')
+temp=$(echo  "$output" | awk -F',' '{gsub(/ /,"",$2); print $2}')
+
+echo "{\"text\": \"󰍹 ${usage}% ${temp}°C\", \"tooltip\": \"GPU: ${usage}%\\nTemp: ${temp}°C\"}"
